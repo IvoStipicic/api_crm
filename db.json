@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Ivo Stipicic",
+      "empresa": "Stipicic Consultora",
+      "email": "ivo@gmail.com",
+      "telefono": "44556677",
+      "notas": "Cliente",
+      "id": 1
+    },
+    {
+      "nombre": "Daiana Groisman",
+      "empresa": "Elea",
+      "email": "dai@elea.com",
+      "telefono": "44332211",
+      "notas": "Estudio Cancer ",
+      "id": 3
+    }
+  ]
+}
